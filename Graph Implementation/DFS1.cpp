@@ -14,7 +14,7 @@ void DFS(int start)
         {
             continue;
         }
-            DFS(neighbor);
+    DFS(neighbor);
     }
 }
 
